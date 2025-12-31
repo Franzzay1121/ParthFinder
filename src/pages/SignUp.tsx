@@ -82,7 +82,7 @@ const SignUpPage: React.FC = () => {
                   <Input
                     id="name"
                     type="text"
-                    placeholder="John Doe"
+                    placeholder="Dogbe Franzzay"
                     value={name}
                     onChange={(e) => setName(e.target.value)}
                     className="pl-10"
